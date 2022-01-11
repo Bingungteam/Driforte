@@ -12,7 +12,7 @@ public class ShopManagerScript : MonoBehaviour
 
     void Start()
     {
-        coinText.text = PlayerPrefsManager.instance.GetCoins().ToString();
+        coinText.text = "Rp. " + PlayerPrefsManager.instance.GetCoins().ToString();
 
         //ID's
         shopItems[1, 1] = 1; //popcorn
@@ -196,7 +196,7 @@ public class ShopManagerScript : MonoBehaviour
     private void Update()
     {
         // Update nilai coin
-        coinText.text = PlayerPrefsManager.instance.GetCoins().ToString();
+        coinText.text = "Rp. " + PlayerPrefsManager.instance.GetCoins().ToString();
     }
 
     private void Transaction()

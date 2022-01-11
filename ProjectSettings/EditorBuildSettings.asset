@@ -18,9 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Loading Screen.unity
     guid: c3bf33c28c8830747adc1a7fd0b148a3
   - enabled: 1
-    path: Assets/Scenes/Strategy.unity
-    guid: a5f994d63d51e0748aab4ee730a15d94
-  - enabled: 1
     path: Assets/Scenes/ShopFeature.unity
     guid: d87eb702ce85f21498541cdde1bec1e5
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: a5f994d63d51e0748aab4ee730a15d94
   m_configObjects: {}

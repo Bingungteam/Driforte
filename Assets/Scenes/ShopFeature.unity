@@ -6249,8 +6249,8 @@ GameObject:
   - component: {fileID: 149527186}
   - component: {fileID: 149527189}
   - component: {fileID: 149527188}
-  - component: {fileID: 149527190}
   - component: {fileID: 149527187}
+  - component: {fileID: 149527190}
   m_Layer: 5
   m_Name: Back Button
   m_TagString: Untagged
@@ -6318,7 +6318,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 149527190}
-        m_MethodName: ke_Strategy
+        m_MethodName: kemanaaja
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6376,12 +6376,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 149527185}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9cd4436ba3039bf41af57306ffdce263, type: 3}
+  m_Script: {fileID: 11500000, guid: 8db40a0d1400ab44182a6599eef2727c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startday: {fileID: 0}
-  guidebook: {fileID: 0}
-  StrategyPanel: {fileID: 0}
+  targetnya: Gameplay
 --- !u!1 &154171913
 GameObject:
   m_ObjectHideFlags: 0
@@ -21788,7 +21786,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.399902, y: -336.69998}
+  m_AnchoredPosition: {x: 8.399902, y: -336.69995}
   m_SizeDelta: {x: 28.1, y: -673.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &458442709

@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ButtonScene : MonoBehaviour
 {
+    public string targetnya;
     // Start is called before the first frame update
     void Start()
     {
@@ -12,8 +13,8 @@ public class ButtonScene : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    public void kemanaaja()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene(targetnya);
     }
 }
