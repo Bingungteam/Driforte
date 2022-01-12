@@ -102,6 +102,11 @@ PrefabInstance:
       propertyPath: balonChar
       value: 
       objectReference: {fileID: 4609870354336903853}
+    - target: {fileID: 5100411058064411704, guid: a171dbb749fa41d4cb253d9dcccd1144,
+        type: 3}
+      propertyPath: EmotFeedback
+      value: 
+      objectReference: {fileID: 8718540053719292461}
     - target: {fileID: 5100411058064411705, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
       propertyPath: m_Offset.x
@@ -120,7 +125,7 @@ PrefabInstance:
     - target: {fileID: 5100411059486521154, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.36999997
+      value: -0.75
       objectReference: {fileID: 0}
     - target: {fileID: 5100411059486521154, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
@@ -145,7 +150,7 @@ PrefabInstance:
     - target: {fileID: 5100411059868441677, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.46
+      value: 0.07999998
       objectReference: {fileID: 0}
     - target: {fileID: 5100411059868441677, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
@@ -185,7 +190,7 @@ PrefabInstance:
     - target: {fileID: 5100411059664098786, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.36999997
+      value: -0.75
       objectReference: {fileID: 0}
     - target: {fileID: 5100411059486521155, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
@@ -733,7 +738,7 @@ PrefabInstance:
     - target: {fileID: 6585218854253300277, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.99
+      value: 1.61
       objectReference: {fileID: 0}
     - target: {fileID: 7616836995238014059, guid: a171dbb749fa41d4cb253d9dcccd1144,
         type: 3}
@@ -741,6 +746,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 12fdbd554365a0443b2ca52f613bf9ba,
         type: 3}
+    - target: {fileID: 4281497581256141682, guid: a171dbb749fa41d4cb253d9dcccd1144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.14
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a171dbb749fa41d4cb253d9dcccd1144, type: 3}
 --- !u!50 &8749977702555376771 stripped
@@ -758,6 +768,12 @@ Animator:
 --- !u!1 &4609870354336903853 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 26997547018707477, guid: a171dbb749fa41d4cb253d9dcccd1144,
+    type: 3}
+  m_PrefabInstance: {fileID: 4586466013364719800}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8718540053719292461 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5140893564447066773, guid: a171dbb749fa41d4cb253d9dcccd1144,
     type: 3}
   m_PrefabInstance: {fileID: 4586466013364719800}
   m_PrefabAsset: {fileID: 0}
