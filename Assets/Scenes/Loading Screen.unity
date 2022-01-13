@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   loadingfill: {fileID: 2047137216}
-  target: Gameplay
+  target: komik
 --- !u!1 &1464002906
 GameObject:
   m_ObjectHideFlags: 0
