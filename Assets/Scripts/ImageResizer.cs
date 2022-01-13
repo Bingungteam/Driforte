@@ -10,6 +10,7 @@ public class ImageResizer : MonoBehaviour
 
     public void OnDisable()
     {
+        iTween.Stop();
         Vector3 myVector3 = new Vector3(1, 1, 1);
         gameObject.transform.localScale = myVector3;
     }

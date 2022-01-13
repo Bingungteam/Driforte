@@ -33,4 +33,10 @@ public class AudioSettings : MonoBehaviour
         }
         */
     }
+
+    public void sfxButton()
+    {
+
+        sfxAudio.Play();
+    }
 }
