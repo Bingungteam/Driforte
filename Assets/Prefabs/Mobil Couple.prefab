@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 3753688439897066426}
   - component: {fileID: 3753688439897066427}
   - component: {fileID: 3753688439897066421}
+  - component: {fileID: 6398682156819346518}
+  - component: {fileID: 1130521205055721152}
   m_Layer: 0
   m_Name: Mobil Couple
   m_TagString: Untagged
@@ -123,6 +125,32 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &6398682156819346518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3753688439897066430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db61cf60add212488a7323ba405aeb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  variant: {fileID: 1130521205055721152}
+--- !u!114 &1130521205055721152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3753688439897066430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257f33f8d7d89134b93c6b115f85388e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seleraType: 080000000200000009000000
 --- !u!1 &3753688441427308742
 GameObject:
   m_ObjectHideFlags: 0

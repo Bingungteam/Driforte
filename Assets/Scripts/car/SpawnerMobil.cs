@@ -27,6 +27,7 @@ public class SpawnerMobil : MonoBehaviour
         Mobil.GetComponent<BoxCollider2D>().enabled = false;
         Mobil.SetActive(true);
         Mobil.GetComponent<CarController>().EmotFeedback.SetActive(true);
+        Mobil.GetComponent<GameManager>().comparison();
         Mobil.GetComponent<CarController>().MoveCar();
         yield return new WaitForSeconds(10);
         Mobil.GetComponent<BoxCollider2D>().enabled = true;
