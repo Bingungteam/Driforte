@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class UpgradeBuildings : MonoBehaviour
 {
     public GameObject image;
+    public GameObject OldImage;
     public InputField inputFieldName;
 
     public void UpgradeSnackbar1()
@@ -14,6 +15,7 @@ public class UpgradeBuildings : MonoBehaviour
             image.SetActive(false);
         else
             image.SetActive(true);
+        Destroy(OldImage);
     }
 
     public void UpgradeSnackbar2()
@@ -22,6 +24,7 @@ public class UpgradeBuildings : MonoBehaviour
             image.SetActive(false);
         else
             image.SetActive(true);
+        Destroy(OldImage);
         
     }
 
@@ -31,6 +34,7 @@ public class UpgradeBuildings : MonoBehaviour
             image.SetActive(false);
         else
             image.SetActive(true);
+        Destroy(OldImage);
     }
 
     public void UpgradeTicketStand2()
@@ -39,6 +43,7 @@ public class UpgradeBuildings : MonoBehaviour
             image.SetActive(false);
         else
             image.SetActive(true);
+        Destroy(OldImage);
     }
 
     public void UpgradeBioskop1()
@@ -47,6 +52,7 @@ public class UpgradeBuildings : MonoBehaviour
             image.SetActive(false);
         else
             image.SetActive(true);
+        Destroy(OldImage);
     }
 
     public void UpgradeBioskop2()
@@ -55,6 +61,7 @@ public class UpgradeBuildings : MonoBehaviour
             image.SetActive(false);
         else
             image.SetActive(true);
+        Destroy(OldImage);
     }
  
 }

@@ -10,7 +10,7 @@ public class CarController : MonoBehaviour
     public float speed;
     public GameObject balonChar;
     public GameObject EmotFeedback;
-
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -49,6 +49,8 @@ public class CarController : MonoBehaviour
         {
             speed = 0f;
             spawn.CallIE(this.gameObject);
+            
+            
 
         }
         if (collision.gameObject.name == "Destroyer")
