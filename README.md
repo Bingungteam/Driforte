@@ -15,6 +15,8 @@ Inilah game simulasi dengan konsep unik dan menarik, mainkan game simulasi bisni
 ![](https://firebasestorage.googleapis.com/v0/b/driforte-6f7bb.appspot.com/o/Overview%2Fgameplay.jpg?alt=media&token=bce6b48b-2616-4094-b49b-9d19202dfd46)
 ![](https://firebasestorage.googleapis.com/v0/b/driforte-6f7bb.appspot.com/o/Overview%2Fshop.jpg?alt=media&token=936acc6a-bdae-4875-8bd8-d6953f8f93b6)
 
+## Link Build
+<a href="https://github.com/Bingungteam/Driforte/releases">Download here!</a>
 
 ## Tools Used
 | Tool | Use |
