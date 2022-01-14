@@ -1,5 +1,5 @@
 # Driforte (Drive For Teather)
-![](https://firebasestorage.googleapis.com/v0/b/driforte-6f7bb.appspot.com/o/Overview%2Fdriforte.png?alt=media&token=ea7a4642-b729-45a7-af1c-57ddc72b95b6)
+![](https://firebasestorage.googleapis.com/v0/b/driforte-6f7bb.appspot.com/o/Overview%2FLogo%20Driforte.png?alt=media&token=f995e7be-8d2a-4538-8d38-7670f1d76cb3)
 
 ### About this game
 Inilah game simulasi dengan konsep unik dan menarik, mainkan game simulasi bisnis ini. cobalah pengalaman baru anda seperti menjadi pemilik bisnis bioskop sesungguhnya, atur strategi anda dengan cara menjaga rating bisnis anda agar tetap tinggi. Carilah banyak keuntungan untuk dapat meng-upgrade bisnis menjadi lebih baik, dan koleksilah film-film yang anda inginkan untuk dapat ditayangkan di bioskop anda.
