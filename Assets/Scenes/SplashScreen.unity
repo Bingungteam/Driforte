@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -265,7 +265,7 @@ GUITexture:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1735524039}
   m_Enabled: 1
-  m_Texture: {fileID: 2800000, guid: 113c7131444410a41b8d69f2466b56df, type: 3}
+  m_Texture: {fileID: 2800000, guid: b7e04cd5d8b6438498ed751e6b8ebe87, type: 3}
   m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
   m_PixelInset:
     serializedVersion: 2
